@@ -1,0 +1,22 @@
+/* Custom styles for the Snackbar component */
+.snackbar-content {
+    flex: 1;
+  }
+  
+  .snackbar-action {
+    color: white;
+  }
+  
+  /* Custom styles for different types of Snackbars */
+  .success-snackbar {
+    background-color: #4caf50;
+  }
+  
+  .warning-snackbar {
+    background-color: #ff9800;
+  }
+  
+  .error-snackbar {
+    background-color: #f44336;
+  }
+  
